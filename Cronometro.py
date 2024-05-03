@@ -1,4 +1,5 @@
 # Cronometro
+#Stopwatch test
 
 # Importando as bibliotecas
 from time import sleep
